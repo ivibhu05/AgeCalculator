@@ -10,13 +10,6 @@
 body {
     background-color: #0a2df1d0;
 }
-
-h1 {
-    padding: 180px 620px;
-    font-family: "'Anton',sans-serif";
-    color: rgb(179, 180, 180);
-}
-
 .container {
     width: 40%;
     min-width: 450px;
